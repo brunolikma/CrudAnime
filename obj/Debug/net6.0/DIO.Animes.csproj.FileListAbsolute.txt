@@ -1,0 +1,15 @@
+D:\Curso\DIO.Animes\bin\Debug\net6.0\DIO.Animes.exe
+D:\Curso\DIO.Animes\bin\Debug\net6.0\DIO.Animes.deps.json
+D:\Curso\DIO.Animes\bin\Debug\net6.0\DIO.Animes.runtimeconfig.json
+D:\Curso\DIO.Animes\bin\Debug\net6.0\DIO.Animes.dll
+D:\Curso\DIO.Animes\bin\Debug\net6.0\ref\DIO.Animes.dll
+D:\Curso\DIO.Animes\bin\Debug\net6.0\DIO.Animes.pdb
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.csproj.AssemblyReference.cache
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.AssemblyInfoInputs.cache
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.AssemblyInfo.cs
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.csproj.CoreCompileInputs.cache
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.dll
+D:\Curso\DIO.Animes\obj\Debug\net6.0\ref\DIO.Animes.dll
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.pdb
+D:\Curso\DIO.Animes\obj\Debug\net6.0\DIO.Animes.genruntimeconfig.cache
